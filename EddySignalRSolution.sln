@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRRedisApp", "SignalRR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRAzureSignalRApp", "SignalRAzureSignalRApp\SignalRAzureSignalRApp.csproj", "{9EECEA2E-5370-4555-B517-BF3831B2ECBF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "발표자료", "발표자료", "{8CD7779E-13B7-4A76-8E17-A253A89B9B87}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "발표자료1", "발표자료1", "{98B5CA2C-4968-414C-8551-D1F3E9CC3B13}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\5.Education\DotNETConf-2023-Fall\.NET8 ASP.NET SignalR 기반 초거대 메시징 서비스 구현하기.pptx = ..\..\5.Education\DotNETConf-2023-Fall\.NET8 ASP.NET SignalR 기반 초거대 메시징 서비스 구현하기.pptx
+		..\..\5.Education\DotNETConf-2023-Fall\DotNET8-ASPNET-SignalR기반-초거대메시징서비스구현하기.pdf = ..\..\5.Education\DotNETConf-2023-Fall\DotNET8-ASPNET-SignalR기반-초거대메시징서비스구현하기.pdf
 	EndProjectSection
 EndProject
 Global
