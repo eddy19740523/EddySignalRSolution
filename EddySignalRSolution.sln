@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRRedisApp", "SignalRR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRAzureSignalRApp", "SignalRAzureSignalRApp\SignalRAzureSignalRApp.csproj", "{9EECEA2E-5370-4555-B517-BF3831B2ECBF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "발표자료", "발표자료", "{8CD7779E-13B7-4A76-8E17-A253A89B9B87}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\5.Education\DotNETConf-2023-Fall\.NET8 ASP.NET SignalR 기반 초거대 메시징 서비스 구현하기.pptx = ..\..\5.Education\DotNETConf-2023-Fall\.NET8 ASP.NET SignalR 기반 초거대 메시징 서비스 구현하기.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

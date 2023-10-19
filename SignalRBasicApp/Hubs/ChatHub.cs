@@ -38,7 +38,5 @@ namespace SignalRBasicApp.Hubs
             await Clients.Group(group).SendAsync("GroupReceiveMessage", user, message);
         }
 
-
-
     }
 }
